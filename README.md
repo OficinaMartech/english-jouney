@@ -4,7 +4,7 @@ Welcome to my personal English learning repository! This is where I document my 
 
 ## 📊 Current Level
 - **Starting Date**: [Your date]
-- **Current Level**: [Beginner/Intermediate/Advanced]
+- **Current Level**: [Intermediate]
 - **Target Goal**: [Your objective]
 
 ## 📚 What You'll Find Here
